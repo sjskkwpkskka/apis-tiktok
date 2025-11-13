@@ -1,3 +1,11 @@
+# apis-tiktok
+api TikTok for programmers
+-
+- api TikTok for programmers
+-----
+By joker 
+-
+See
 ( API ) get follower list
 
 url = 'https://api16-normal-c-alisg.tiktokv.com/aweme/v1/user/follower/list/?version_code=17.7.0&language=ar&app_name=musical_ly&app_version=17.7.0&vid=A0E47A34-1BAE-4407-AB86-219468E804C5&carrier_region=JO&device_id=7002851779940271622&channel=App%20Store&mcc_mnc=41601&tz_offset=10800&residence=JO&op_region=JO&locale=ar&aid=1233&sys_region=JO&account_region=&screen_width=1125&uoo=1&openudid=62b064ef098f5d1c5817b2bf68f0ce3be9a52dcf&cdid=C3303766-D942-4770-B538-DADCC78137C4&os_api=18&ac=WIFI&os_version=14.6&app_language=ar&content_language=&tz_name=Asia/Amman&current_region=JO&build_number=177015&device_platform=iphone&iid=7090051165099378438&device_type=iPhone11,2&idfa=00000000-0000-0000-0000-000000000000&offset=0&sec_user_id=MS4wLjABAAAALLaLWB0VKcdXITRkX9VsM3GcuSOZBj9vqLvxkMzYgPRfX3ruvCGJ_cu6zbjjuG6R&address_book_access=0&source_type=1&count=20&user_id='+UserID+'&max_time=0'
